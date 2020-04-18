@@ -1,6 +1,6 @@
 # INFO6205-Project-RankingSystem
 This project predicts the win rate of any two teams in the EPL game based on the Poisson distribution, and simulates the unfinished game in 2020 due to the epidemic according to the win rate.
-Please refer to the PDF document for details.
+# Please refer to the PDF document for details.
 
 The csv file needed by the program is stored in the src folder:
   record.csv : 
