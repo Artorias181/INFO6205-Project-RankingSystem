@@ -1,4 +1,4 @@
-# INFO6205-Project-RankingSystem
+# INFO6205-Project-RankingSystem (team member: Bo Cao)
 This project predicts the win rate of any two teams in the EPL game based on the Poisson distribution, and simulates the unfinished game in 2020 due to the epidemic according to the win rate.
 # Please refer to the PDF document for details.
 
