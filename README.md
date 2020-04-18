@@ -9,3 +9,5 @@ The csv file needed by the program is stored in the src folder:
         The first column is the team name and the second column is the points (win get 3 points, draw get 1 point, lose get 0 points)
   # process.csv : 
         This file contains two team names for each simulation game in each line.
+        
+  # The result will show the ranking of all participating teams in the simulation competition (from top to bottom).
